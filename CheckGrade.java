@@ -1,4 +1,4 @@
-
+package com.bridgelabzs;
 import java.util.Scanner;
 public class CheckGrade {
 public static void main(String args[]) {
